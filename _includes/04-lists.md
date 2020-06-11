@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+#Here is my list of favourite things
+- Play cricket
+- Reading books
+- Piano classes
+- Running exercises
