@@ -1,1 +1,11 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Skills
+Below is my _list_ of **TECHNICAL SKILLS** 
+
+## Programming skills
+- Python
+- R
+- MATLAB
+
+### Collaboration skills
+- Git hub
+- Git
